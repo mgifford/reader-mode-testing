@@ -168,7 +168,7 @@ for real definition lists.</p>
        used to indicate a word as a variable).</li>
 </ul>
 
-<p> vSome of the elements tested above are typically displayed in a monospace
+<p>v Some of the elements tested above are typically displayed in a monospace
 font, often using the <em>same</em> presentation for all of them. This
 tests whether that is the case on your browser:</p>
 
@@ -251,27 +251,27 @@ a <code>fieldset</code> element with a <code>legend</code>:</div>
 </fieldset>
 
 <fieldset>
-<legend>Check those that apply</legend>
-<div><label for="f5"><input id="f5" type="checkbox" name="checkbox">w Checkbox 1</label></div>
-<div><label for="f6"><input id="f6" type="checkbox" name="checkbox2" checked>x Checkbox 2 (initially checked)</label></div>
+<legend>w Check those that apply</legend>
+<div><label for="f5"><input id="f5" type="checkbox" name="checkbox">x Checkbox 1</label></div>
+<div><label for="f6"><input id="f6" type="checkbox" name="checkbox2" checked>y Checkbox 2 (initially checked)</label></div>
 </fieldset>
 
-<div><label for="f10">A <code>select</code>y element with <code>size="1"</code>
+<div><label for="f10">A <code>select</code>z element with <code>size="1"</code>
 (dropdown box):
 <select id="f10" name="select1" size="1">
-<option>z one</option>
-<option selected>aa two (default)</option>
-<option>bb three</option>
+<option>aa one</option>
+<option selected>bb two (default)</option>
+<option>cc three</option>
 </select></label></div>
 
-<div><label for="f11">cc A <code>select</code> element with <code>size="3"</code>
+<div><label for="f11">dd A <code>select</code> element with <code>size="3"</code>
 (listbox):</label><br>
 <select id="f11" name="select2" size="3">
-<option>dd one</option>
-<option selected>ee two (default)</option>
-<option>ff three</option>
+<option>ee one</option>
+<option selected>ff two (default)</option>
+<option>gg three</option>
 </select></div>
-<div><label for="f99">gg Submit button:
+<div><label for="f99">hh Submit button:
 <input id="f99" type="submit" name="submit" value="Just a test"></label></div>
 </form>
 </article>
