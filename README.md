@@ -369,13 +369,8 @@ Gotta add more text, so why not Amanda Gorman poem from the inauguration of Pres
 
 
 <article>
-  <div id="node-124305" class="node node-article clearfix" about="/en/about-us/universal-declaration-of-human-rights" typeof="sioc:Item foaf:Document">
+  <h1 class="text-center">Universal Declaration of Human Rights</h1>
 
-      
-    
-                        <h1 class="text-center">Universal Declaration of Human Rights</h1>
-                <div class="content">
-                <div class="article-body">
           <p class="grey-well">The <span class="pdf-link"><a href="https://www.un.org/sites/un2.un.org/files/udhr.pdf">Universal Declaration of Human Rights (UDHR)</a></span> is a milestone document in the history of human rights. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, the Declaration was proclaimed by the United Nations General Assembly in Paris on 10 December 1948 (<a href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/217(III)">General Assembly resolution 217 A</a>) as a common standard of achievements for all peoples and all nations. It sets out, for the first time, fundamental human rights to be universally protected and it has been&nbsp;<a href="http://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx">translated into over 500 languages.</a>&nbsp;The UDHR&nbsp;is widely recognized as having inspired, and paved the way for, the adoption of more than seventy human rights treaties, applied today on a permanent basis at global and regional levels (all containing references to it in their preambles).&nbsp;</p>
 
 <h2 class="heading-underlined-blue">Preamble</h2>
@@ -564,13 +559,7 @@ Gotta add more text, so why not Amanda Gorman poem from the inauguration of Pres
 <h2 class="heading-underlined-blue">Article 30</h2>
 
 <p>Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.</p>
-        </div>
 
-      </div>
-
-      
-            
-    </div>
 </article>
 
 
