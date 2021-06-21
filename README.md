@@ -12,3 +12,7 @@ First, what needs to be as Markdown & which as a .html file?
 
 Thanks to 
 - https://github.com/estelle/html_elements
+
+See also
+- https://github.com/alexsexton/kitchen-sink/blob/master/index.html
+- https://github.com/dbox/html5-kitchen-sink
