@@ -1,4 +1,4 @@
-# )0) Heading 1
+# 0) Heading 1
 
 <main>
 <article aria-label="headings">
