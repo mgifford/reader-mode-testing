@@ -1,23 +1,23 @@
-# **0** Heading 1
+# )0) Heading 1
 
 <main>
 <article aria-label="headings">
-<h1>**1** This is 1st level heading</h1>
+<h1>1) This is 1st level heading</h1>
 <p>a This is a test paragraph.</p>
-<h2>**2** This is 2nd level heading</h2>
+<h2>2) This is 2nd level heading</h2>
 <p>a This is a test paragraph.</p>
-<h3>**3** This is 3rd level heading</h3>
+<h3>3) This is 3rd level heading</h3>
 <p>a This is a test paragraph.</p>
-<h4>**4** This is 4th level heading</h4>
+<h4>4) This is 4th level heading</h4>
 <p>a This is a test paragraph.</p>
-<h5>**5** This is 5th level heading</h5>
+<h5>5) This is 5th level heading</h5>
 <p>a This is a test paragraph.</p>
-<h6>**6** This is 6th level heading</h6>
+<h6>6) This is 6th level heading</h6>
 <p>a This is a test paragraph.</p>
 </article>
 
 <article>
-<h2>**7** Basic block level elements</h2>
+<h2>7) Basic block level elements</h2>
 
 <p>a This is a normal paragraph (<code>p</code> element).
 To add some length to it, let us mention that this page was
@@ -51,7 +51,7 @@ h 3 Rue Jules Ferry, Neuilly Sur Seine, France 94000
 
 
 <article>
-<h2>**8** Lists</h2>
+<h2>8) Lists</h2>
 
 <p>a This is a paragraph before an <strong>unnumbered</strong> list (<code>ul</code>). Note that
 the spacing between a paragraph and a list before or after that is hard
@@ -117,7 +117,7 @@ for real definition lists.</p>
 </article>
 
 <article>
-<h2>**9** Text-level markup, in alphabetical order</h2>
+<h2>9) Text-level markup, in alphabetical order</h2>
 
 <ul>
   <li>a <abbr title="Cascading Style Sheets">CSS</abbr> (an abbreviation;
@@ -175,7 +175,7 @@ tests whether that is the case on your browser:</p>
   <li>z <tt>This is sample text inside tt markup</tt></li>
 </ul>
   
-<h2>**10** Links</h2>
+<h2>10) Links</h2>
 <ul>
 <li>a <a href="../index.html">main page</a></li>
 <li>b <a href=
@@ -273,7 +273,7 @@ a <code>fieldset</code> element with a <code>legend</code>:</div>
 </article>
 
 <article>
-<h2>**12** Tables</h2>
+<h2>12) Tables</h2>
 
 <p>a The following table has a caption. The first row is in a thead, the second row is the tfoot, and the rest is in a tbody. The first column
 contain table header cells (<code>th</code> elements) only; other cells
@@ -296,7 +296,7 @@ are data cells (<code>td</code> elements):</p>
 
 
 <article>
-<h2>**13** HTML5 Elements</h2>
+<h2>13) HTML5 Elements</h2>
 
 <h3>a Details and Summary</h3>
 <details>
@@ -332,7 +332,7 @@ are data cells (<code>td</code> elements):</p>
 </article>
 
 <aside>
-<h1>**14** This is an aside</h1>
+<h1>14) This is an aside</h1>
 <h2>a Character test</h2>
 <p>b The following table has some sample characters with
 annotations. If the browser&#8217;s default font does not
