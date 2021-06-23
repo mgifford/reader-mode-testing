@@ -16,3 +16,4 @@ Thanks to
 See also
 - https://github.com/alexsexton/kitchen-sink/blob/master/index.html
 - https://github.com/dbox/html5-kitchen-sink
+- https://github.com/mozilla/readability
